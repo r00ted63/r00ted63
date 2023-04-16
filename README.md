@@ -4,6 +4,12 @@
 - Currently a high-school student.
 - [ARCH](https://archlinux.org/) User.
 
+**📔 | Knowledge**
+- [C#]
+- [Python]
+- [Web Dev]
+- [Cysec]
+
 **🕴🏽 | Important Links**
 - [Profile](https://github.com/r00ted63 "Mason Hood")
 - [Email](mailto:mjhood@tutanota.de?subject=Email% "Email")
