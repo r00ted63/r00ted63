@@ -5,6 +5,7 @@
 - [ARCH](https://archlinux.org/) User.
 
 **📔 | Knowledge**
+My current skills, and programming languages.
 - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 - [Python](https://www.python.org/)
 - [Web Dev](https://www.reddit.com/r/webdev/)
