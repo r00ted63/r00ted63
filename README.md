@@ -12,6 +12,6 @@
 - [Twitter](https://twitter.com/r00ted63)
 - [Element](https://matrix.to/#/!MqsRKqcsFRvSuvxXbj:matrix.org?via=matrix.org)
 -
-**📞 | Want to Contact me? ** 
+**📞 | Want to Contact me?** 
 - Join my Element Server!
 - Shoot me an email!
